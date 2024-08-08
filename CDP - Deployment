@@ -2,7 +2,7 @@
 		Cloudera Data Platform
 ********************************************************
 
-
+ami-0e6b0a1f7f29fa192
 
 -----*** Update the server ***-----
 $ sudo apt-get update && sudo apt-get dist-upgrade -y
