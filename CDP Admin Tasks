@@ -67,6 +67,7 @@ hdfs dfsadmin -safemode enter
 hdfs dfsadmin -saveNamespace
 
 cd /dfs/nn
+mkdir nnbackup
 
 cp -r current/ /var/lib/hadoop-hdfs/nnbackup
 
